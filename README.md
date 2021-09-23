@@ -32,7 +32,7 @@ $ go install
 This provider uses [Go modules](https://github.com/golang/go/wiki/Modules).
 Please see the Go documentation correctly for the most up to date information about using Go modules.
 
-To add a new dependency `github.com/author/dependency` to your Terraform provider:
+To add the new dependency `github.com/author/dependency` to your Terraform provider:
 
 ```
 go get github.com/author/dependency
